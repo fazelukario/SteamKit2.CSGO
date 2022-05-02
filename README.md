@@ -1,4 +1,5 @@
 # SteamKit2.CSGO
+[![Nuget](https://img.shields.io/nuget/v/SteamKit2.CSGO)](https://www.nuget.org/packages/SteamKit2.CSGO)
 
 A library build on top of [SteamKit2](https://github.com/SteamRE/SteamKit) for communicating with the CSGO Game Coordinator
 
